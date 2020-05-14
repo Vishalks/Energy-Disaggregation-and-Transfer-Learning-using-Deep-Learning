@@ -7,7 +7,7 @@ This project is implemented in python 3.7 and tensorflow 2.0. Follow these steps
 
 2. After Anaconda has been installed, open up the terminal (Unix) or Anaconda prompt (Windows).
 Create a new environment where NILMTK and related dependencies are installed.
-```bash
+	```bash
 	conda create --name nilmtk-env 
 	```
   
