@@ -45,5 +45,5 @@ Create a new environment where NILMTK and related dependencies are installed.
 	spyder
 	```
   
-8. Download the REDD dataset from [here](http://redd.csail.mit.edu/). Unzip it in the same directory as RNN-example.ipynb.
+8. Download the REDD dataset from [here](http://redd.csail.mit.edu/data/low_freq.tar.bz2) using redd/disaggregatetheenergy as username/password. Unzip it in the same directory as RNN-example.ipynb.
 9. Give path of the low_freq directory that you will get after the unzipping process above to the convert_redd function in the very first cell of notebook. Give appliance name that you want to run the disaggregation on and run the notebook. It might take some time to load data and convert into h5 format. After the notebook is run, you can see the actual vs predicted appliance consumption along with prediction metrics.
