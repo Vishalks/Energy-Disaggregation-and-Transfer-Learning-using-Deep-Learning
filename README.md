@@ -1,7 +1,7 @@
 # Energy-Disaggregation-and-Transfer-Learning-using-Deep-Learning
 This repository contains my implementation for Energy Disaggregation of appliances from mains consumption using stacked ensemble deep learning
 
-#Installation
+# Installation
 This project is implemented in python 3.7 and tensorflow 2.0. Follow these steps to setup your environment:
 1. [Download and install Conda](http://https://conda.io/projects/conda/en/latest/user-guide/install/index.html "Download and install Conda")
 
